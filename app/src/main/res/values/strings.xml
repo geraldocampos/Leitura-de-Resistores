@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CodigoCores</string>
+    <string name="viewResulte">O valor será expresso aqui:</string>
+    <string name="viewInfo">Informe o tipo: 4 ou 5 ou 6 listras.</string>
+    <string name="button_4stripe">4 Listras</string>
+    <string name="button_5stripe">5 Listras</string>
+    <string name="button_6stripe">6 Listras</string>
+    <string name="button_restart">Reinicia</string>
+</resources>
